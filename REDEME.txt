@@ -1,0 +1,1 @@
+Everything that you need is inside the program, just run main.c program 
